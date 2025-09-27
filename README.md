@@ -1,2 +1,3 @@
 proj_educacional(build_06_setm) - Prototipo inicial com as colisões do jogo e inimigo inicial;
 proj_educacional(build_13_setm) - Foi feito os movimentos do personagem e camera que o seguirá; 
+proj_educacional(build_20_setm) - Ajuste no controle e sistema de quiz fácil implementado;
